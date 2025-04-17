@@ -9,4 +9,5 @@ public class Utils {
     public static Gson getGson() {
         return gson;
     }
+
 }
